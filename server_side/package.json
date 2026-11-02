@@ -1,0 +1,15 @@
+{
+  "name": "server_side",
+  "version": "1.0.0",
+  "description": "I heard this would need a backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  }
+}
